@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "repoNuevoNBDev",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "repoNuevoNBDev",
+    "section": "Install",
+    "text": "Install\npip install repoNuevoNBDev"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "repoNuevoNBDev",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "tarea.html",
+    "href": "tarea.html",
+    "title": "Tarea",
+    "section": "",
+    "text": "source\n\nTarea\n\n Tarea (titulo:str, fecha_entrega:str, descripcion:str='')\n\nObjeto que contiene un titulo, una descripcion, un estado (completo o no completado)\n\n\n\n\nType\nDefault\nDetails\n\n\n\n\ntitulo\nstr\n\nTitulo de la tarea\n\n\nfecha_entrega\nstr\n\nFecha de entrega en formato dd/mm/aaaa\n\n\ndescripcion\nstr\n\nInformacion adicional sobre la tarea\n\n\nReturns\nNone"
+  }
+]
