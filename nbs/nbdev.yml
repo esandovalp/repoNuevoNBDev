@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "repoNuevoNBDev"
+  site-url: "https://esandovalp.github.io/repoNuevoNBDev"
+  description: "githubmail"
+  repo-branch: main
+  repo-url: "https://github.com/esandovalp/repoNuevoNBDev"
